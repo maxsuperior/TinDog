@@ -78,6 +78,10 @@ body {
   font-size: 1.5rem;
 }
 
+.row {
+  text-align: left; //to move download buttons to the left align//
+}
+
 /* BUTTONS */
 .downloading-button {
   margin: 5% 3% 5% 0;
